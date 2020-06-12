@@ -93,6 +93,64 @@
     "offreCommerciale": "Usage affaires",
     "primeTotale": "0,000",
     "situation": "En cours"
-  }
+  },
+	
+	"list_sinistre" : 
+	[
+    {
+        "dateEffetContrat": "28 04 2012",
+        "dateOuverture": "28 11 2016",
+        "dateSinistre": "27 11 2016",
+        "etatSinistre": "Clôturé",
+        "garantiesSinistre": [
+            {
+                "libelleGarantie": "Dommage  collision"
+            },
+            {
+                "libelleGarantie": "Défense et recours"
+            },
+            {
+                "libelleGarantie": "RC Circulation"
+            }
+        ],
+        "limiteCollision": "3000",
+        "listeDocuments": [
+            {
+                "nomDocument": "Lettre rejet IDA"
+            }
+        ],
+        "listeExperts": [
+            {
+                "dateMission": "28 11 2016",
+                "expert": "BOSTANGI Med Lâroussi",
+                "idPersonne": 212,
+                "numTel": "98 320 036"
+            }
+        ],
+        "listeReglement": [
+            {
+                "dateReglement": "13 01 2017",
+                "montantReglement": "600,000",
+                "natureReglement": "Règlement  Dommage Collision"
+            }
+        ],
+        "listeTiers": [
+            {
+                "compagnieTiers": "M.A.E                   ",
+                "nomTiers": "RIADH MOSBEH ",
+                "numContratTiers": "10/100902863",
+                "numImmatTiers": "8874 TU 174"
+            }
+        ],
+        "natureIndemnisation": "Hors IDA avec garanties contractuelles",
+        "nomSouscripteur": "SOUAD ZRAFI",
+        "numImmatriculation": "2268 TU 125",
+        "numeroContrat": "0033091939",
+        "numeroSinistre": "201604027234",
+        "partResponsabilite": 100,
+        "priseEnChargeReparation": "oui"
+    }
+],
+		
 
 }
