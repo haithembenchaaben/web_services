@@ -33,7 +33,7 @@
     "garantiesSouscrites": [
         {
             "libelleGarantie": "RC Circulation",
-            "rangAffichage": "10001"
+            "rangAffichage": "10001",
 	     "franchise": "10"
 
         },
