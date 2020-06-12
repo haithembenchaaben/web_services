@@ -2,11 +2,11 @@
   "ws_inscription": [
  
     {
+      "id": 1,
     "codeClient": "186619",
     "nom": " EL AOUNI",
     "prenom": "SAMAH"
 }
-
   ],
   "comments": [
     { "id": 2, "body": "some comment", "postId": 1 },
