@@ -25,7 +25,6 @@
   ],
   
     "detail_contract": {
-   {
     "agence": "064 - Mme HABA Thouraya",
     "bonusMalus": "08",
     "dateSituation": "21/06/2019",
@@ -94,8 +93,6 @@
     "offreCommerciale": "Usage affaires",
     "primeTotale": "0,000",
     "situation": "En cours"
-}
-
   }
 
 }
