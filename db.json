@@ -1,8 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "ws_inscription": [
+ 
+    {
+    "codeClient": "186619",
+    "nom": " EL AOUNI",
+    "prenom": "SAMAH"
+}
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
