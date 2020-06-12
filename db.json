@@ -38,7 +38,75 @@
     
   ],
   
-  "profile": {
-    "name": "typicode"
-  }
+  "details_contract": {
+    "agence": "064 - Mme HABA Thouraya",
+    "bonusMalus": "08",
+    "dateSituation": "21/06/2019",
+    "echeanceContractuelle": "08/08",
+    "fractionnement": "Semestriel",
+    "garantiesSouscrites": [
+        {
+            "libelleGarantie": "RC Circulation",
+            "rangAffichage": "10001"
+	     "franchise": "10"
+
+        },
+        {
+            "capitalAssure": "50000",
+            "libelleGarantie": "Recours Tiers Incendie",
+            "rangAffichage": "10002"
+        },
+        {
+            "capitalAssure": "18000",
+            "libelleGarantie": "Vol Véhicule",
+            "rangAffichage": "20001"
+        },
+        {
+            "capitalAssure": "18000",
+            "libelleGarantie": "Incendie et Périls Véhicule",
+            "rangAffichage": "40001"
+        },
+        {
+            "capitalAssure": "18000",
+            "libelleGarantie": "Incendie au Véhicule suite Emeutes",
+            "rangAffichage": "60001"
+        },
+        {
+            "capitalAssure": "400",
+            "libelleGarantie": "Bris de Glace",
+            "rangAffichage": "160001"
+        },
+        {
+            "capitalAssure": "1000",
+            "libelleGarantie": "Défense et Recours",
+            "rangAffichage": "180001"
+        },
+        {
+            "capitalAssure": "5000",
+            "libelleGarantie": "Décès Personnes Transportées",
+            "rangAffichage": "200001"
+        },
+        {
+            "capitalAssure": "5000",
+            "libelleGarantie": "Invalidité Personnes Transportées",
+            "rangAffichage": "200002"
+        },
+        {
+            "capitalAssure": "1000",
+            "libelleGarantie": "Frais médicaux Personnes Transportées",
+            "rangAffichage": "200003"
+        },
+        {
+            "libelleGarantie": "Assistance Auto Confort",
+            "rangAffichage": "280001"
+        }
+    ],
+    "immatriculation": "885 TU 161",
+    "marque": "RENAULT",
+    "numeroContrat": "0640083090",
+    "offreCommerciale": "Usage affaires",
+    "primeTotale": "0,000",
+    "situation": "En cours"
+}
+
 }
