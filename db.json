@@ -25,8 +25,8 @@
   ],
   
    "list_contracts": [
-   [
     {
+	    "id": 1,
         "agence": "Succursale Siège",
         "dateSituation": "20/01/2018",
         "immatriculation": "112 TU 170",
@@ -34,7 +34,6 @@
         "offreCommerciale": "Usage affaires",
         "situation": "EnCours"
     }
-]
     
   ],
   
