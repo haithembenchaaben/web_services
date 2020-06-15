@@ -7,18 +7,5 @@
     "nom": " EL AOUNI",
     "prenom": "SAMAH"
 }
-  ],
-   "ws_client_info": [
-    {
-      "id": 1,
-    "agents": [
-        "Succursale Siège"
-    ],
-    "cin": "13002346",
-    "email": "exemple@aaa.tn",
-    "nom": " EL AOUNI",
-    "prenom": "SAMAH",
-    "tel": "98521475"
-}
   ]
 }
